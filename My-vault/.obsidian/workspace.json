@@ -1,0 +1,323 @@
+{
+  "main": {
+    "id": "0b20bcd91fd23faf",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb816d7cb2bbd74e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27550663521b7062",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aggresive Cow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbcbc3757107c9d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bhagwat Gita - saregama podcast spotify.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6055a72339942587",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Min day to make M bouquets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7189052aa62a8b6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbbf683f3c7fc2d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capacity to Ship Packages within D Days.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1bf5205636bc77ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9942f070bb4a6b3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Min day to make M bouquets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8667a20ce4aa2604",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Koko eating Banana.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17acc48b776ff5c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nth root in of number.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "384dc674a1a42bcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Single element is Sorted array.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de8e81e22ee3a269",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How many times array rotated.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1547a1951b6c031b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minimum in rotated array.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab271a0a65184dfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Find the first or last occurrence of a given number in a sorted array.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4daf17087a59a312",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0f87f6842b7a3c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7a0561b2af1d96c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "26eaf9e406ff59c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#book",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0d210362dfb3ef3b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dabea63e80130368",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a8ba548c6b6c5f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63f843ae67f23c7a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Books.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e201abf15233cc1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Books.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a2832dd7d9a8e1ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "358f12192962e032",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Books.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1bf5205636bc77ae",
+  "lastOpenFiles": [
+    "Smallest Divisor.md",
+    "Capacity to Ship Packages within D Days.md",
+    "Books.md",
+    "Part 1 - Arjun asking questions.md",
+    "Binary Search.md",
+    "Bhagwat Gita - saregama podcast spotify.md",
+    "Aggresive Cow.md",
+    "DSA Striver.md",
+    "Matrix median.md",
+    "Peak Element in 2D matrix.md",
+    "Search in row and column wise sorted matrix.md",
+    "Search in 2D array.md",
+    "Find the row with maximum number of 1's.md",
+    "Kth element of 2 sorted arrays.md",
+    "Median of 2 Arrays.md",
+    "Painter's Partition.md",
+    "Minimize max distance to gas station.md",
+    "Split array - largest sum.md",
+    "Book Allocation Problem.md",
+    "Kth missing positive Number.md",
+    "Min day to make M bouquets.md",
+    "Koko eating Banana.md",
+    "Nth root in of number.md",
+    "Peak Element.md",
+    "Single element is Sorted array.md",
+    "How many times array rotated.md"
+  ]
+}
